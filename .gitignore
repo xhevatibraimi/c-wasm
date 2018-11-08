@@ -1,3 +1,7 @@
+#wasm gitignore
+out/
+
+#node .gitignore
 # Logs
 logs
 *.log
